@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vinayakd909@gmail.com**
 
-- ⚡ Fun fact **In Love With Tech..!!**
+- ⚡ Fun fact: **In Love With Tech..!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
