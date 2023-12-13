@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=43cbaa&size=40&width=750&height=80&lines=Hello+there!+I'm+Vinayak."/></h2>
 <h3 align="center">Passionate Towards Full Stack Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phenyloder&label=Profile%20views&color=0e75b6&style=flat" alt="phenyloder" /> </p>
+[![](https://visitcount.itsvg.in/api?id=phenyloder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **Low Level Design**
 
@@ -23,6 +23,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=phenyloder&icon=0&color=0)](https://visitcount.itsvg.in)
